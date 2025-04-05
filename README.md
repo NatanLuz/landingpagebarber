@@ -40,6 +40,6 @@ Este site foi desenvolvido como parte dos meus estudos em desenvolvimento web, c
    
 2. Abra o arquivo index.html no navegador de sua preferência.
 
- Desenvolvido com 💈 por Natan da Luz
+  Desenvolvido por Natan da Luz
  
- Entre em Contato: natandaluz01@gmail.com
+  Entre em Contato: natandaluz01@gmail.com
