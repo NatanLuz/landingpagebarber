@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    width: 100vw;
+    height: 100vh;
+    font-size: 62.5%;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.btns button:hover {
+    background-color: #444;
+    border: 3px solid #dd4c4c;
+}
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(30, 30, 30, 0.95)), url('/img/barbearia.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    width: 100%;
+    height: 7vh;
+    background-color: #111;
+}
+
+.menu-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    text-transform: uppercase;
+    font-size: 1.8rem;
+}
+
+.logo {
+    font-size: 2.5rem;
+    letter-spacing: 0.3rem;
+    cursor: pointer;
+    color: #fff;
+}
+
+.menu-content .list-itens {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+
+.menu-content .list-itens a {
+    text-decoration: none;
+    color: #ccc;
+    padding: 1.5rem;
+    position: relative;
+    font-weight: bold;
+}
+
+.menu-content .list-itens a:before {
+    content: ' ';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #888;
+    transition: all 0.5s ease-in-out;
+}
+
+.menu-content .list-itens a:hover:before {
+    width: 100%;
+}
+
+main {
+    height: 93vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-content {
+    text-align: center;
+}
+
+.primary-text {
+    font-size: 5rem;
+    margin-bottom: 2rem;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.second-text {
+    margin-bottom: 5rem;
+    font-size: 2.5rem;
+    color: #ccc;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.btns button {
+    width: 250px;
+    height: 60px;
+    cursor: pointer;
+    border: 3px solid #aaa;
+    color: #fff;
+    background-color: transparent;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 10px;
+    transition: 0.4s ease-in-out;
+}
+
+.btn-exp:hover {
+    background-color: #333;
+}
+
+.btn-personal:hover {
+    background-color: #0a0a0a;
+}
+
+
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+                url('./img/barbeariateste.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
