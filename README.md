@@ -32,7 +32,7 @@ Este site foi desenvolvido como parte dos meus estudos em desenvolvimento web, c
 📁 barbearia-dev/ ├── index.html ├── style.css └── img/ └── barbeariateste.jpg
 
 
-## 🚀 Como visualizar
+##  Como visualizar
 
 1. Clone o repositório:
    ```bash
