@@ -1,44 +1,32 @@
-# Landing Page Barbearia
+## Barber Shop Landing Page
 
-Um projeto simples e responsivo de uma landing page para barbearia, com visual moderno e elegante usando as cores preto, branco e cinza inspirado no estilo das barbearias premium.
+A simple and responsive landing page project for a barbershop, featuring a modern and elegant look using black, white, and gray colors inspired by premium barbershop styles.
 
-## Sobre o Projeto
+About the Project
+This website was developed as part of my web development studies. The page simulates a barbershop homepage with emphasis on a clean layout, strong typography, and a background image that conveys trust and style.
 
-Este site foi desenvolvido como parte dos meus estudos em desenvolvimento web. A página simula a home de uma barbearia com destaque para um layout limpo, tipografia forte e uma imagem de fundo que transmite confiança e estilo.
+Technologies Used
+HTML5
+CSS3
+Font Awesome (social media icons)
+Google Fonts (Lato)
 
-## Tecnologias Utilizadas
+Features
 
-- HTML5
-- CSS3
-- Font Awesome (ícones de redes sociais)
-- Google Fonts (Lato)
+Top navigation menu
+Responsive layout
+Background image with dark overlay
+Action buttons: "Schedule Service" and "View Services"
+Social icons for Facebook and Instagram
 
-##  Funcionalidades
+barbearia-dev
+index.html
+style.css
+img > barbeariateste.jpg
 
-- Menu de navegação no topo
-- Layout responsivo
-- Imagem de fundo com overlay escuro
-- Botões de ação: "Agendar Serviço" e "Conhecer Serviços"
-- Ícones sociais do Facebook e Instagram
+How to View
+Clone the repository:
 
-## Preview
+git clone https://github.com/archivesysl/barbearia-dev.git
 
-![Preview do site](./img/barbeariateste.jpg)
-
-> *A imagem acima é usada como fundo principal da página com um efeito escurecido para destacar o conteúdo.*
-
-## 📂 Estrutura do Projeto
-
-📁 barbearia-dev/ ├── index.html ├── style.css └── img/ └── barbeariateste.jpg
-
-
-##  Como visualizar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/archivesysl/barbearia-dev.git
-   
-2. Abra o arquivo index.html no navegador de sua preferência.
-------------------------------------------------------------------
-  Desenvolvido por Natan da Luz
-  Entre em Contato: natandaluz01@gmail.com
+Developed by Natan da Luz
