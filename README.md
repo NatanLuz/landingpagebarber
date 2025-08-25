@@ -45,7 +45,7 @@ index.html
 
 ---
 
-## 🚀 How to View  
+##  How to View  
 Clone the repository and open the project:  
 
 ```bash
